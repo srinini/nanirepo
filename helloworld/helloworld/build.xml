@@ -69,6 +69,6 @@
     <jar jarfile="${dist.home}/${app.name}-${app.version}.war"
          basedir="${work.home}"/>
   </target>
-a
+
 
 </project>
