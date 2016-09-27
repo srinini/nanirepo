@@ -1,0 +1,7 @@
+#!bin/etc
+
+val =100
+read $a
+echo "enter value a"
+echo "print value"
+
